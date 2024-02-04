@@ -1,3 +1,3 @@
 # Daily Screener WSU
 
-This app can generates the daily screener QR code automatically everyday.
+This app can generate the daily screener QR code automatically everyday.
